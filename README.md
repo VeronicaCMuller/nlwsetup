@@ -17,6 +17,12 @@ NLW Setup é um evento exclusivo e gratuito, promovido pela Rocketseat para ensi
 
 <br>
 
+## ✨ Minha experiência
+
+  Foi uma semana de imersão junto com a Rocketseat no projeto NLWSetup, onde tive o prazer de desenvolver esse projeto incrível, que me proporcionou aprendizagem na prática de tecnologias uteis na vida de um dev, além de acesso a uma comunidade incrível com alunos em diversos níveis de conhecimento.
+  
+  Quero agradecer a equipe Rocketseat, em especial ao professor @maykbrito por essa experiência incrivel, e aos amigos @JefersonSantanaDev e @GabrielKasperDev que toparam realizar essa semana de imersão trocando conhecimento. 
+  
 
 ## 🚀 Tecnologias
 
